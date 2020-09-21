@@ -100,6 +100,7 @@ int main(void)
 	  if(teste == 1)
 	  {
 		  teste = 0;
+		  teste2 = 1;
 	  }
 
   }
