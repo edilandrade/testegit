@@ -43,6 +43,7 @@
 
 /* USER CODE BEGIN PV */
 int teste = 0;
+int teste2 = 0;
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
